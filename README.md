@@ -18,4 +18,6 @@
 
   - TCS [Introduction](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS_Introduction.pdf)
 
-## Submission Report | [File](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Submission%20Report/Amey_B-50_TCS_Submission_Report.pdf)
+## Submission Report 
+
+  - [Report](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Submission%20Report/Amey_B-50_TCS_Submission_Report.pdf)
