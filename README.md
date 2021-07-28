@@ -1,9 +1,7 @@
 # THEORY OF COMPUTER SCIENCE
  TCS [SEMESTER V]
 
----
-
-### Assignments
+## Assignments
 
   - TCS [Assignment - 1](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-1.pdf)
   - TCS [Assignment - 2](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-2.pdf)
@@ -16,12 +14,8 @@
   - TCS [Assignment - 9](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-9.pdf)
   - TCS [Assignment - 10](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-10.pdf)
 
----
-
-### Quizzes
+## Quizzes
 
   - TCS [Introduction](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS_Introduction.pdf)
 
----
-
-### Submission Report | [File](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Submission%20Report/Amey_B-50_TCS_Submission_Report.pdf)
+## Submission Report | [File](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Submission%20Report/Amey_B-50_TCS_Submission_Report.pdf)
