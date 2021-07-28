@@ -1,7 +1,7 @@
 # THEORY OF COMPUTER SCIENCE
  TCS [SEMESTER V]
 
-## Theory of Computer Science
+### Theory of Computer Science
 
   >Assignments
 
