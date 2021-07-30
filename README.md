@@ -16,7 +16,13 @@
 
 ## Quizzes
 
-  - TCS [Introduction](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS_Introduction.pdf)
+  - TCS [Introduction](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20Introduction.pdf)
+  - TCS [Quiz - 1](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%201.pdf)
+  - TCS [Quiz - 2]()
+  - TCS [Quiz - 3](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%203.pdf)
+  - TCS [Quiz - 4](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%204.pdf)
+  - TCS [Quiz - 5](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%205.pdf)
+  - TCS [Quiz - 6](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%206.pdf)
 
 ## Submission Report 
 
