@@ -1,5 +1,5 @@
 # THEORY-OF-COMPUTER-SCIENCE
- CSC504: TCS [SEMESTER V]
+ 👍🏻 CSC504: TCS [SEMESTER V]
 
 ---
  
@@ -76,3 +76,9 @@
 ## Submission Report 
  
  - [Report](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Submission%20Report/Amey_B-50_TCS_Submission_Report.pdf)
+
+---
+
+<p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
