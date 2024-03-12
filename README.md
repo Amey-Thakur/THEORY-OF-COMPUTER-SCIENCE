@@ -1,4 +1,5 @@
 # THEORY-OF-COMPUTER-SCIENCE
+
  👍🏻 CSC504: TCS [SEMESTER V]
 
 ---
@@ -24,7 +25,6 @@
  - TCS [Assignment - 6](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-6.pdf)
  
  - TCS [Assignment - 7](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-7.pdf)
- 
  
  - TCS [Assignment - 8](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-8.pdf)
  
@@ -81,4 +81,4 @@
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
