@@ -113,26 +113,15 @@ Academic assignments for comprehensive learning and practice:
 TCS-specific quizzes conducted during the course:
 
 | Quiz | Topics | Marks |
-|:---:|:---|:---:|
-| Introduction | Course Introduction | — |
-| Quiz 1 | Set Theory, Finite Automata | **08/10** |
+|:---|:---|:---:|
+| [Introduction](Quizzes/TCS%20Introduction.pdf) | Course Introduction | — |
+| [Quiz 1](Quizzes/TCS%20Quiz%20-%201.pdf) | Set Theory, Finite Automata | **08/10** |
 | Quiz 2 | Finite State Automata | **09/10** |
-| Quiz 3 | Regular Expressions, CFG | **09/10** |
-| Quiz 4 | Pushdown Automata | **10/10** |
-| Quiz 5 | Turing Machines | **10/10** |
-| Quiz 6 | Decidability, Complexity | **10/10** |
+| [Quiz 3](Quizzes/TCS%20Quiz%20-%203.pdf) | Regular Expressions, CFG | **09/10** |
+| [Quiz 4](Quizzes/TCS%20Quiz%20-%204.pdf) | Pushdown Automata | **10/10** |
+| [Quiz 5](Quizzes/TCS%20Quiz%20-%205.pdf) | Turing Machines | **10/10** |
+| [Quiz 6](Quizzes/TCS%20Quiz%20-%206.pdf) | Decidability, Complexity | **10/10** |
 
-### Quiz Resources
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| TCS Introduction | Course Introduction Material | [📄 View](Quizzes/TCS%20Introduction.pdf) |
-| Quiz 1 | Quiz 1 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%201.pdf) |
-| Quiz 2 | Quiz 2 Submission | — |
-| Quiz 3 | Quiz 3 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%203.pdf) |
-| Quiz 4 | Quiz 4 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%204.pdf) |
-| Quiz 5 | Quiz 5 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%205.pdf) |
-| Quiz 6 | Quiz 6 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%206.pdf) |
 
 ---
 
