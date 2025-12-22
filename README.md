@@ -183,7 +183,7 @@ Course completion documentation:
 
 | Document | Description | Link |
 |:---|:---|:-:|
-| Submission Report | Final coursework submission report | [📄 View](Submission%20Report/Amey_B-50_TCS_Submission_Report.pdf) |
+| Submission Report | Final coursework submission report | [📄 View](Amey_B-50_TCS_Submission_Report.pdf) |
 
 ---
 
