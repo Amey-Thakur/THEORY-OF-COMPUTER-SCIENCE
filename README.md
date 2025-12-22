@@ -81,7 +81,6 @@ This collection includes **comprehensive reference materials** covering all majo
 | 9 | [TCS Question Bank](Reference%20Books/TCS%20Question%20Bank.png) | Practice questions for exam preparation |
 | 10 | [Theory of Computer Science Diagram](Reference%20Books/Theory%20of%20Computer%20Science.png) | Key architectural diagrams |
 | 11 | [Semester 5 Books](Reference%20Books/Semester%205%20Books.png) | Curated book recommendations |
-| 12 | [Theory of Computation - Sipser (Alt)](Reference%20Books/Introduction%20To%20The%20Theory%20Of%20Computation%20Michael%20Sipser.pdf) | Alternative copy of Sipser |
 
 ---
 
@@ -193,7 +192,7 @@ Course completion documentation:
      ========================================================================================= -->
 ## Syllabus
 
-> 📋 **[University Syllabus](Syllabus/MU%20COMP%20TE%20BE.pdf)** · **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> 📋 **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for TCS.
 
 > [!IMPORTANT]
