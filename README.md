@@ -112,15 +112,15 @@ Academic assignments for comprehensive learning and practice:
 
 TCS-specific quizzes conducted during the course:
 
-| Quiz | Topics | Marks |
-|:---|:---|:---:|
-| [Introduction](Quizzes/TCS%20Introduction.pdf) | Course Introduction | — |
-| [Quiz 1](Quizzes/TCS%20Quiz%20-%201.pdf) | Set Theory, Finite Automata | **08/10** |
-| Quiz 2 | Finite State Automata | **09/10** |
-| [Quiz 3](Quizzes/TCS%20Quiz%20-%203.pdf) | Regular Expressions, CFG | **09/10** |
-| [Quiz 4](Quizzes/TCS%20Quiz%20-%204.pdf) | Pushdown Automata | **10/10** |
-| [Quiz 5](Quizzes/TCS%20Quiz%20-%205.pdf) | Turing Machines | **10/10** |
-| [Quiz 6](Quizzes/TCS%20Quiz%20-%206.pdf) | Decidability, Complexity | **10/10** |
+| Quiz | Topics | Date | Marks |
+|:---|:---|:---:|:---:|
+| [Introduction](Quizzes/TCS%20Introduction.pdf) | Course Introduction | July 11, 2020 | **10/10** |
+| [Quiz 1](Quizzes/TCS%20Quiz%20-%201.pdf) | Set Theory, Finite Automata | - | **08/10** |
+| Quiz 2 | Finite State Automata | - | **09/10** |
+| [Quiz 3](Quizzes/TCS%20Quiz%20-%203.pdf) | Regular Expressions, CFG | - | **09/10** |
+| [Quiz 4](Quizzes/TCS%20Quiz%20-%204.pdf) | Pushdown Automata | - | **10/10** |
+| [Quiz 5](Quizzes/TCS%20Quiz%20-%205.pdf) | Turing Machines | - | **10/10** |
+| [Quiz 6](Quizzes/TCS%20Quiz%20-%206.pdf) | Decidability, Complexity | - | **10/10** |
 
 
 ---
