@@ -114,12 +114,13 @@ TCS-specific quizzes conducted during the course:
 
 | Quiz | Topics | Marks |
 |:---:|:---|:---:|
-| Introduction | Course Introduction | - |
-| Quiz 1 | Set Theory, Finite Automata | - |
-| Quiz 3 | Regular Expressions, CFG | - |
-| Quiz 4 | Pushdown Automata | - |
-| Quiz 5 | Turing Machines | - |
-| Quiz 6 | Decidability, Complexity | - |
+| Introduction | Course Introduction | — |
+| Quiz 1 | Set Theory, Finite Automata | **08/10** |
+| Quiz 2 | Finite State Automata | **09/10** |
+| Quiz 3 | Regular Expressions, CFG | **09/10** |
+| Quiz 4 | Pushdown Automata | **10/10** |
+| Quiz 5 | Turing Machines | **10/10** |
+| Quiz 6 | Decidability, Complexity | **10/10** |
 
 ### Quiz Resources
 
@@ -127,6 +128,7 @@ TCS-specific quizzes conducted during the course:
 |:---|:---|:-:|
 | TCS Introduction | Course Introduction Material | [📄 View](Quizzes/TCS%20Introduction.pdf) |
 | Quiz 1 | Quiz 1 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%201.pdf) |
+| Quiz 2 | Quiz 2 Submission | — |
 | Quiz 3 | Quiz 3 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%203.pdf) |
 | Quiz 4 | Quiz 4 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%204.pdf) |
 | Quiz 5 | Quiz 5 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%205.pdf) |
