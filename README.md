@@ -155,8 +155,8 @@ Final semester examination submission:
 
 | Resource | Description | Date |
 |:---|:---|:---:|
-| 📝 [Question 2](Semester%20Exam/Q.2_TCS.pdf) | TCS Semester Exam Answer Sheet | - |
-| 📝 [Question 3](Semester%20Exam/Q.3_TCS.pdf) | TCS Semester Exam Answer Sheet | - |
+| 📝 [Question 2](Semester%20Exam/Q.2_TCS.pdf) | TCS Semester Exam Answer Sheet | January 14, 2021 |
+| 📝 [Question 3](Semester%20Exam/Q.3_TCS.pdf) | TCS Semester Exam Answer Sheet | January 14, 2021 |
 
 ---
 
