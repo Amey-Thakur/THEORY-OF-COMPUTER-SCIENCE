@@ -138,7 +138,7 @@ Online assessments conducted during the semester:
 | Resource | Date | Marks | Description |
 |:---|:---:|:---:|:---|
 | 📊 [TCS UT-2](Online%20Exam/TCS%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
-| 📄 [TCS Online Test](Online%20Exam/Online%20Test_TCS(TE_B)_18%20july.pdf) | July 18, 2020 | - | Subject-specific online test |
+| 📄 [TCS Online Test](Online%20Exam/Online%20Test_TCS(TE_B)_18%20july.pdf) | July 18, 2020 | **8/8** | Subject-specific online test |
 | 📄 [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
 | 📄 [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
 | 📄 [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
