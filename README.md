@@ -90,16 +90,16 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks | Link |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Assignment 1** | Set Theory and Mathematical Foundations | - | 10/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Finite Automata Basics | - | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-2.pdf) |
-| 3 | **Assignment 3** | DFA and NFA Conversions | - | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-3.pdf) |
-| 4 | **Assignment 4** | Regular Expressions | - | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-4.pdf) |
-| 5 | **Assignment 5** | Context-Free Grammars | - | 10/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-5.pdf) |
-| 6 | **Assignment 6** | Pushdown Automata | - | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-6.pdf) |
-| 7 | **Assignment 7** | Turing Machines Basics | - | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-7.pdf) |
-| 8 | **Assignment 8** | Turing Machine Variations | - | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-8.pdf) |
-| 9 | **Assignment 9** | Decidability and Undecidability | - | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-9.pdf) |
-| 10 | **Assignment 10** | Complexity Theory | - | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-10.pdf) |
+| 1 | **Assignment 1** | Set Theory and Mathematical Foundations | November 20, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Finite Automata Basics | November 20, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-2.pdf) |
+| 3 | **Assignment 3** | DFA and NFA Conversions | November 21, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-3.pdf) |
+| 4 | **Assignment 4** | Regular Expressions | November 22, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-4.pdf) |
+| 5 | **Assignment 5** | Context-Free Grammars | November 22, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-5.pdf) |
+| 6 | **Assignment 6** | Pushdown Automata | November 22, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-6.pdf) |
+| 7 | **Assignment 7** | Turing Machines Basics | November 28, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-7.pdf) |
+| 8 | **Assignment 8** | Turing Machine Variations | November 28, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-8.pdf) |
+| 9 | **Assignment 9** | Decidability and Undecidability | November 28, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-9.pdf) |
+| 10 | **Assignment 10** | Complexity Theory | November 28, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-10.pdf) |
 
 **Topics Covered**: Set Theory · Finite Automata · Regular Expressions · Context-Free Grammars · Pushdown Automata · Turing Machines · Decidability · Complexity
 
