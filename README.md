@@ -1,84 +1,286 @@
-# THEORY-OF-COMPUTER-SCIENCE
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
+<div align="center">
 
- 👍🏻 CSC504: TCS [SEMESTER V]
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+
+  # Theory of Computer Science
+
+  ### CSC504 · Semester V · Computer Engineering
+
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A comprehensive academic resource for Theory of Computer Science (TCS), covering automata theory, formal languages, Turing machines, computability, and complexity theory.**
+
+  ---
+
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+
+</div>
 
 ---
- 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- 
- - [X] **TCS - [Reference Books](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/tree/main/Reference%20Books)**
+
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
+## Overview
+
+Theory of Computer Science (CSC504) is a core subject in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. This course provides foundational knowledge of computation theory, formal languages, automata, and the theoretical limits of computing.
+
+### Course Topics
+
+The curriculum encompasses several key domains in Theoretical Computer Science:
+
+- **Set Theory & Mathematical Foundations**: Sets, Relations, Functions, Proof Techniques
+- **Formal Languages**: Regular Languages, Context-Free Languages, Grammar Classifications
+- **Automata Theory**: Finite Automata (DFA, NFA), Pushdown Automata, Turing Machines
+- **Regular Expressions**: Pattern Matching, Equivalence with Finite Automata
+- **Context-Free Grammars**: Parse Trees, Ambiguity, Chomsky Normal Form
+- **Computability Theory**: Decidability, Undecidability, Halting Problem
+
+### Repository Purpose
+
+This repository represents a curated collection of study materials, reference books, assignments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+
+As a computer engineer, understanding theoretical foundations of computation is crucial for compiler design, algorithm analysis, and understanding computational limits. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental TCS concepts.
+- **Academic Documentation**: To authentically document my learning journey through Theory of Computer Science.
+- **Community Contribution**: To share these resources with students and learners who may benefit from them.
+
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
 ---
 
-## Assignments
- 
- - TCS [Assignment - 1](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-1.pdf)
- 
- - TCS [Assignment - 2](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-2.pdf)
- 
- - TCS [Assignment - 3](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-3.pdf)
- 
- - TCS [Assignment - 4](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-4.pdf)
- 
- - TCS [Assignment - 5](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-5.pdf)
- 
- - TCS [Assignment - 6](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-6.pdf)
- 
- - TCS [Assignment - 7](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-7.pdf)
- 
- - TCS [Assignment - 8](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-8.pdf)
- 
- - TCS [Assignment - 9](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-9.pdf)
- 
- - TCS [Assignment - 10](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Assignments/Amey_B-50_TCS_Assignment-10.pdf)
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
+## Repository Contents
 
+### Reference Books
 
+This collection includes **comprehensive reference materials** covering all major topics:
+
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [TCS Techmax](Reference%20Books/TCS%20Techmax.pdf) | Complete syllabus coverage |
+| 2 | [Introduction to Theory of Computation - Sipser](Reference%20Books/Introduction%20To%20The%20Theory%20Of%20Computation%20-%20Michael%20Sipser.pdf) | Standard Textbook (Sipser) |
+| 3 | [Automata Theory](Reference%20Books/Automata%20Theory.pdf) | Finite Automata and Languages |
+| 4 | [Theory of Computation](Reference%20Books/Theory%20Of%20Computation.pdf) | Computation Theory Concepts |
+| 5 | [Theory of Computer Science](Reference%20Books/Theory%20Of%20Computer%20Science%20Third%20Edition.pdf) | Comprehensive Reference |
+| 6 | [Set Theory PPT](Reference%20Books/Set-Theory-PPT.pdf) | Mathematical Foundations |
+| 7 | [TCS Easy Solution](Reference%20Books/TCS%20Easy%20Solution.pdf) | Solved questions and summaries |
+| 8 | [TCS Easy Solutions](Reference%20Books/TCS%20Easy%20Solutions.pdf) | Extended solved questions |
+| 9 | [TCS Question Bank](Reference%20Books/TCS%20Question%20Bank.png) | Practice questions for exam preparation |
+| 10 | [Theory of Computer Science Diagram](Reference%20Books/Theory%20of%20Computer%20Science.png) | Key architectural diagrams |
+| 11 | [Semester 5 Books](Reference%20Books/Semester%205%20Books.png) | Curated book recommendations |
+
+---
+
+### Assignments
+
+Academic assignments for comprehensive learning and practice:
+
+| # | Assignment | Description | Date | Marks | Link |
+|:-:|:---|:---|:---:|:---:|:-:|
+| 1 | **Assignment 1** | Set Theory and Mathematical Foundations | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Finite Automata Basics | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-2.pdf) |
+| 3 | **Assignment 3** | DFA and NFA Conversions | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-3.pdf) |
+| 4 | **Assignment 4** | Regular Expressions | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-4.pdf) |
+| 5 | **Assignment 5** | Context-Free Grammars | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-5.pdf) |
+| 6 | **Assignment 6** | Pushdown Automata | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-6.pdf) |
+| 7 | **Assignment 7** | Turing Machines Basics | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-7.pdf) |
+| 8 | **Assignment 8** | Turing Machine Variations | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-8.pdf) |
+| 9 | **Assignment 9** | Decidability and Undecidability | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-9.pdf) |
+| 10 | **Assignment 10** | Complexity Theory | - | - | [📄 View](Assignments/Amey_B-50_TCS_Assignment-10.pdf) |
+
+**Topics Covered**: Set Theory · Finite Automata · Regular Expressions · Context-Free Grammars · Pushdown Automata · Turing Machines · Decidability · Complexity
+
+---
+
+<!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
 ## Quizzes
- 
- - TCS [Introduction](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20Introduction.pdf)
- 
- - TCS [Quiz - 1](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%201.pdf)
- 
- - TCS [Quiz - 3](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%203.pdf)
- 
- - TCS [Quiz - 4](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%204.pdf)
- 
- - TCS [Quiz - 5](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%205.pdf)
- 
- - TCS [Quiz - 6](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Quizzes/TCS%20%20Quiz%20-%206.pdf)
 
+TCS-specific quizzes conducted during the course:
 
-## Online Exam
- 
- - TCS [UT - 2](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Online%20Exam/TCS%20UT-2.png)
- 
- - Online Test [TCS | 18th July](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Online%20Exam/Online%20Test_TCS(TE_B)_18%20july.pdf) 
+| Quiz | Topics | Marks |
+|:---:|:---|:---:|
+| Introduction | Course Introduction | - |
+| Quiz 1 | Set Theory, Finite Automata | - |
+| Quiz 3 | Regular Expressions, CFG | - |
+| Quiz 4 | Pushdown Automata | - |
+| Quiz 5 | Turing Machines | - |
+| Quiz 6 | Decidability, Complexity | - |
 
- - Online Test [All Subjects - 1](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf)
- 
- - Online Test [All Subjects - 2](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf)
- 
- - Online Test [All Subjects - 3](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf)
- 
- - Online Test [All Subjects - 4](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf)
+### Quiz Resources
 
-
-## Semester Exam
- 
- - TCS Answersheet - [Q2](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Semester%20Exam/Q.2_TCS.pdf) | [Q3](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Semester%20Exam/Q.3_TCS.pdf)
-
-
-## Question Papers
- 
- - [Previous Question Papers](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/tree/main/Question%20Papers)
-
-
-## Submission Report 
- 
- - [Report](https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE/blob/main/Submission%20Report/Amey_B-50_TCS_Submission_Report.pdf)
+| Resource | Description | Link |
+|:---|:---|:-:|
+| TCS Introduction | Course Introduction Material | [📄 View](Quizzes/TCS%20Introduction.pdf) |
+| Quiz 1 | Quiz 1 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%201.pdf) |
+| Quiz 3 | Quiz 3 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%203.pdf) |
+| Quiz 4 | Quiz 4 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%204.pdf) |
+| Quiz 5 | Quiz 5 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%205.pdf) |
+| Quiz 6 | Quiz 6 Submission | [📄 View](Quizzes/TCS%20Quiz%20-%206.pdf) |
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<!-- =========================================================================================
+                                     ONLINE EXAM SECTION
+     ========================================================================================= -->
+## Online Exam
+
+> [!IMPORTANT]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
+
+Online assessments conducted during the semester:
+
+| Resource | Date | Marks | Description |
+|:---|:---:|:---:|:---|
+| 📊 [TCS UT-2](Online%20Exam/TCS%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
+| 📄 [TCS Online Test](Online%20Exam/Online%20Test_TCS(TE_B)_18%20july.pdf) | July 18, 2020 | - | Subject-specific online test |
+| 📄 [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
+| 📄 [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
+| 📄 [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
+| 📄 [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
+
+---
+
+<!-- =========================================================================================
+                                     SEMESTER EXAM SECTION
+     ========================================================================================= -->
+## Semester Exam
+
+Final semester examination submission:
+
+| Resource | Description | Date |
+|:---|:---|:---:|
+| 📝 [Question 2](Semester%20Exam/Q.2_TCS.pdf) | TCS Semester Exam Answer Sheet | - |
+| 📝 [Question 3](Semester%20Exam/Q.3_TCS.pdf) | TCS Semester Exam Answer Sheet | - |
+
+---
+
+<!-- =========================================================================================
+                                     QUESTION PAPERS SECTION
+     ========================================================================================= -->
+## Question Papers
+
+Previous year university question papers:
+
+| Exam Session | Syllabus | Resource |
+|:---|:---:|:-:|
+| May 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_TCS-CBCGS_MAY19.pdf) |
+| December 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_TCS-CBCGS_DEC19.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     SUBMISSION REPORT SECTION
+     ========================================================================================= -->
+## Submission Completion Report
+
+Course completion documentation:
+
+| Document | Description | Link |
+|:---|:---|:-:|
+| Submission Report | Final coursework submission report | [📄 View](Submission%20Report/Amey_B-50_TCS_Submission_Report.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
+## Syllabus
+
+> 📋 **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for TCS.
+
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
+
+---
+
+<!-- =========================================================================================
+                                     USAGE GUIDELINES SECTION
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use these resources as reference materials for understanding automata theory, formal languages, and preparing for examinations. All content is organized for self-paced learning.
+
+**For Educators**  
+These materials may serve as curriculum references or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
+
+---
+
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+---
+
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
+## About This Repository
+
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University**: [University of Mumbai](https://mu.ac.in/)
+
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Theory of Computer Science.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
+### Acknowledgments
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Theory of Computer Science. Their clear teaching and continued support helped develop a strong understanding of computation theory and formal languages.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+
+---
+
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  **[⬆ Back to Top](#theory-of-computer-science)**
+
+  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[💻 Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📝 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
