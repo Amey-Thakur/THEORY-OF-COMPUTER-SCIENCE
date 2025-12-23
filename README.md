@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Online Exam](#online-exam) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -90,16 +90,16 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks | Link |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Assignment 1** | Set Theory and Mathematical Foundations | November 20, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Finite Automata Basics | November 20, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-2.pdf) |
-| 3 | **Assignment 3** | DFA and NFA Conversions | November 21, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-3.pdf) |
-| 4 | **Assignment 4** | Regular Expressions | November 22, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-4.pdf) |
-| 5 | **Assignment 5** | Context-Free Grammars | November 22, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-5.pdf) |
-| 6 | **Assignment 6** | Pushdown Automata | November 22, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-6.pdf) |
-| 7 | **Assignment 7** | Turing Machines Basics | November 28, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-7.pdf) |
-| 8 | **Assignment 8** | Turing Machine Variations | November 28, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-8.pdf) |
-| 9 | **Assignment 9** | Decidability and Undecidability | November 28, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-9.pdf) |
-| 10 | **Assignment 10** | Complexity Theory | November 28, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_TCS_Assignment-10.pdf) |
+| 1 | **Assignment 1** | Set Theory and Mathematical Foundations | November 20, 2020 | 10/10 | [View](Assignments/Amey_B-50_TCS_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Finite Automata Basics | November 20, 2020 | 09/10 | [View](Assignments/Amey_B-50_TCS_Assignment-2.pdf) |
+| 3 | **Assignment 3** | DFA and NFA Conversions | November 21, 2020 | 09/10 | [View](Assignments/Amey_B-50_TCS_Assignment-3.pdf) |
+| 4 | **Assignment 4** | Regular Expressions | November 22, 2020 | 09/10 | [View](Assignments/Amey_B-50_TCS_Assignment-4.pdf) |
+| 5 | **Assignment 5** | Context-Free Grammars | November 22, 2020 | 10/10 | [View](Assignments/Amey_B-50_TCS_Assignment-5.pdf) |
+| 6 | **Assignment 6** | Pushdown Automata | November 22, 2020 | 09/10 | [View](Assignments/Amey_B-50_TCS_Assignment-6.pdf) |
+| 7 | **Assignment 7** | Turing Machines Basics | November 28, 2020 | 09/10 | [View](Assignments/Amey_B-50_TCS_Assignment-7.pdf) |
+| 8 | **Assignment 8** | Turing Machine Variations | November 28, 2020 | 09/10 | [View](Assignments/Amey_B-50_TCS_Assignment-8.pdf) |
+| 9 | **Assignment 9** | Decidability and Undecidability | November 28, 2020 | 09/10 | [View](Assignments/Amey_B-50_TCS_Assignment-9.pdf) |
+| 10 | **Assignment 10** | Complexity Theory | November 28, 2020 | 09/10 | [View](Assignments/Amey_B-50_TCS_Assignment-10.pdf) |
 
 **Topics Covered**: Set Theory · Finite Automata · Regular Expressions · Context-Free Grammars · Pushdown Automata · Turing Machines · Decidability · Complexity
 
@@ -112,15 +112,15 @@ Academic assignments for comprehensive learning and practice:
 
 TCS-specific quizzes conducted during the course:
 
-| Quiz | Topics | Date | Marks |
-|:---|:---|:---:|:---:|
-| [Introduction](Quizzes/TCS%20Introduction.pdf) | Course Introduction | July 11, 2020 | **10/10** |
-| [Quiz 1](Quizzes/TCS%20Quiz%20-%201.pdf) | Set Theory, Finite Automata | - | **08/10** |
-| Quiz 2 | Finite State Automata | - | **09/10** |
-| [Quiz 3](Quizzes/TCS%20Quiz%20-%203.pdf) | Regular Expressions, CFG | - | **09/10** |
-| [Quiz 4](Quizzes/TCS%20Quiz%20-%204.pdf) | Pushdown Automata | - | **10/10** |
-| [Quiz 5](Quizzes/TCS%20Quiz%20-%205.pdf) | Turing Machines | - | **10/10** |
-| [Quiz 6](Quizzes/TCS%20Quiz%20-%206.pdf) | Decidability, Complexity | - | **10/10** |
+| # | Quiz | Topics | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [Introduction](Quizzes/TCS%20Introduction.pdf) | Course Introduction | July 11, 2020 | **10/10** |
+| 2 | [Quiz 1](Quizzes/TCS%20Quiz%20-%201.pdf) | Set Theory, Finite Automata | - | **08/10** |
+| 3 | Quiz 2 | Finite State Automata | - | **09/10** |
+| 4 | [Quiz 3](Quizzes/TCS%20Quiz%20-%203.pdf) | Regular Expressions, CFG | - | **09/10** |
+| 5 | [Quiz 4](Quizzes/TCS%20Quiz%20-%204.pdf) | Pushdown Automata | - | **10/10** |
+| 6 | [Quiz 5](Quizzes/TCS%20Quiz%20-%205.pdf) | Turing Machines | - | **10/10** |
+| 7 | [Quiz 6](Quizzes/TCS%20Quiz%20-%206.pdf) | Decidability, Complexity | - | **10/10** |
 
 
 ---
@@ -135,14 +135,14 @@ TCS-specific quizzes conducted during the course:
 
 Online assessments conducted during the semester:
 
-| Resource | Date | Marks | Description |
-|:---|:---:|:---:|:---|
-| 📊 [TCS UT-2](Online%20Exam/TCS%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
-| 📄 [TCS Online Test](Online%20Exam/Online%20Test_TCS(TE_B)_18%20july.pdf) | July 18, 2020 | **8/8** | Subject-specific online test |
-| 📄 [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
-| 📄 [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
-| 📄 [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
-| 📄 [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
+| # | Resource | Date | Marks | Description |
+|:-:|:---|:---:|:---:|:---|
+| 1 | [TCS UT-2](Online%20Exam/TCS%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
+| 2 | [TCS Online Test](Online%20Exam/Online%20Test_TCS(TE_B)_18%20july.pdf) | July 18, 2020 | **8/8** | Subject-specific online test |
+| 3 | [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
+| 4 | [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
+| 5 | [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
+| 6 | [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
 
 ---
 
@@ -153,10 +153,10 @@ Online assessments conducted during the semester:
 
 Final semester examination submission:
 
-| Resource | Description | Date |
-|:---|:---|:---:|
-| 📝 [Question 2](Semester%20Exam/Q.2_TCS.pdf) | TCS Semester Exam Answer Sheet | January 14, 2021 |
-| 📝 [Question 3](Semester%20Exam/Q.3_TCS.pdf) | TCS Semester Exam Answer Sheet | January 14, 2021 |
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [Question 2](Semester%20Exam/Q.2_TCS.pdf) | TCS Semester Exam Answer Sheet | January 14, 2021 |
+| 2 | [Question 3](Semester%20Exam/Q.3_TCS.pdf) | TCS Semester Exam Answer Sheet | January 14, 2021 |
 
 ---
 
@@ -167,10 +167,10 @@ Final semester examination submission:
 
 Previous year university question papers:
 
-| Exam Session | Syllabus | Resource |
-|:---|:---:|:-:|
-| May 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_TCS-CBCGS_MAY19.pdf) |
-| December 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_TCS-CBCGS_DEC19.pdf) |
+| # | Exam Session | Syllabus | Resource |
+|:-:|:---|:---:|:-:|
+| 1 | May 2019 | CBCGS | [View](Question%20Papers/TE-Comps_SEM5_TCS-CBCGS_MAY19.pdf) |
+| 2 | December 2019 | CBCGS | [View](Question%20Papers/TE-Comps_SEM5_TCS-CBCGS_DEC19.pdf) |
 
 ---
 
@@ -181,9 +181,9 @@ Previous year university question papers:
 
 Course completion documentation:
 
-| Document | Description | Link |
-|:---|:---|:-:|
-| Submission Report | Final coursework submission report | [📄 View](Amey_B-50_TCS_Submission_Report.pdf) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Submission Report | Final coursework submission report | [View](Amey_B-50_TCS_Submission_Report.pdf) |
 
 ---
 
@@ -268,10 +268,10 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 <div align="center">
 
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
-
+  ### [🎓 Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  
   **Computer Engineering (B.E.) - University of Mumbai**
-
+  
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
-
+  
 </div>
