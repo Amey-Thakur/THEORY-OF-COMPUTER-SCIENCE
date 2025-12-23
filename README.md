@@ -108,7 +108,7 @@ Academic assignments for comprehensive learning and practice:
 <!-- =========================================================================================
                                      QUIZZES SECTION
      ========================================================================================= -->
-## Quizzes
+### Quizzes
 
 TCS-specific quizzes conducted during the course:
 
