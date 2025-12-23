@@ -181,9 +181,9 @@ Previous year university question papers:
 
 Course completion documentation:
 
-| # | Document | Description | Link |
-|:-:|:---|:---|:-:|
-| 1 | Submission Report | Final coursework submission report | [View](Amey_B-50_TCS_Submission_Report.pdf) |
+| # | Document | Description |
+|:-:|:---|:---|
+| 1 | [**Submission Report**](Amey_B-50_TCS_Submission_Report.pdf) | Final coursework submission report |
 
 ---
 
