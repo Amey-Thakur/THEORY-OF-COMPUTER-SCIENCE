@@ -90,16 +90,16 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [**Assignment 1**](Assignments/Amey_B-50_TCS_Assignment-1.pdf) | Set Theory and Mathematical Foundations | November 20, 2020 | 10/10 |
-| 2 | [**Assignment 2**](Assignments/Amey_B-50_TCS_Assignment-2.pdf) | Finite Automata Basics | November 20, 2020 | 09/10 |
-| 3 | [**Assignment 3**](Assignments/Amey_B-50_TCS_Assignment-3.pdf) | DFA and NFA Conversions | November 21, 2020 | 09/10 |
-| 4 | [**Assignment 4**](Assignments/Amey_B-50_TCS_Assignment-4.pdf) | Regular Expressions | November 22, 2020 | 09/10 |
-| 5 | [**Assignment 5**](Assignments/Amey_B-50_TCS_Assignment-5.pdf) | Context-Free Grammars | November 22, 2020 | 10/10 |
-| 6 | [**Assignment 6**](Assignments/Amey_B-50_TCS_Assignment-6.pdf) | Pushdown Automata | November 22, 2020 | 09/10 |
-| 7 | [**Assignment 7**](Assignments/Amey_B-50_TCS_Assignment-7.pdf) | Turing Machines Basics | November 28, 2020 | 09/10 |
-| 8 | [**Assignment 8**](Assignments/Amey_B-50_TCS_Assignment-8.pdf) | Turing Machine Variations | November 28, 2020 | 09/10 |
-| 9 | [**Assignment 9**](Assignments/Amey_B-50_TCS_Assignment-9.pdf) | Decidability and Undecidability | November 28, 2020 | 09/10 |
-| 10 | [**Assignment 10**](Assignments/Amey_B-50_TCS_Assignment-10.pdf) | Complexity Theory | November 28, 2020 | 09/10 |
+| 1 | [Assignment 1](Assignments/Amey_B-50_TCS_Assignment-1.pdf) | Set Theory and Mathematical Foundations | November 20, 2020 | 10/10 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_TCS_Assignment-2.pdf) | Finite Automata Basics | November 20, 2020 | 09/10 |
+| 3 | [Assignment 3](Assignments/Amey_B-50_TCS_Assignment-3.pdf) | DFA and NFA Conversions | November 21, 2020 | 09/10 |
+| 4 | [Assignment 4](Assignments/Amey_B-50_TCS_Assignment-4.pdf) | Regular Expressions | November 22, 2020 | 09/10 |
+| 5 | [Assignment 5](Assignments/Amey_B-50_TCS_Assignment-5.pdf) | Context-Free Grammars | November 22, 2020 | 10/10 |
+| 6 | [Assignment 6](Assignments/Amey_B-50_TCS_Assignment-6.pdf) | Pushdown Automata | November 22, 2020 | 09/10 |
+| 7 | [Assignment 7](Assignments/Amey_B-50_TCS_Assignment-7.pdf) | Turing Machines Basics | November 28, 2020 | 09/10 |
+| 8 | [Assignment 8](Assignments/Amey_B-50_TCS_Assignment-8.pdf) | Turing Machine Variations | November 28, 2020 | 09/10 |
+| 9 | [Assignment 9](Assignments/Amey_B-50_TCS_Assignment-9.pdf) | Decidability and Undecidability | November 28, 2020 | 09/10 |
+| 10 | [Assignment 10](Assignments/Amey_B-50_TCS_Assignment-10.pdf) | Complexity Theory | November 28, 2020 | 09/10 |
 
 **Topics Covered**: Set Theory · Finite Automata · Regular Expressions · Context-Free Grammars · Pushdown Automata · Turing Machines · Decidability · Complexity
 
@@ -114,13 +114,13 @@ TCS-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [Introduction](Quizzes/TCS%20Introduction.pdf) | Course Introduction | July 11, 2020 | **10/10** |
-| 2 | [Quiz 1](Quizzes/TCS%20Quiz%20-%201.pdf) | Set Theory, Finite Automata | - | **08/10** |
-| 3 | Quiz 2 | Finite State Automata | - | **09/10** |
-| 4 | [Quiz 3](Quizzes/TCS%20Quiz%20-%203.pdf) | Regular Expressions, CFG | - | **09/10** |
-| 5 | [Quiz 4](Quizzes/TCS%20Quiz%20-%204.pdf) | Pushdown Automata | - | **10/10** |
-| 6 | [Quiz 5](Quizzes/TCS%20Quiz%20-%205.pdf) | Turing Machines | - | **10/10** |
-| 7 | [Quiz 6](Quizzes/TCS%20Quiz%20-%206.pdf) | Decidability, Complexity | - | **10/10** |
+| 1 | [Introduction](Quizzes/TCS%20Introduction.pdf) | Course Introduction | July 11, 2020 | 10/10 |
+| 2 | [Quiz 1](Quizzes/TCS%20Quiz%20-%201.pdf) | Set Theory, Finite Automata | — | 08/10 |
+| 3 | Quiz 2 | Finite State Automata | — | 09/10 |
+| 4 | [Quiz 3](Quizzes/TCS%20Quiz%20-%203.pdf) | Regular Expressions, CFG | — | 09/10 |
+| 5 | [Quiz 4](Quizzes/TCS%20Quiz%20-%204.pdf) | Pushdown Automata | — | 10/10 |
+| 6 | [Quiz 5](Quizzes/TCS%20Quiz%20-%205.pdf) | Turing Machines | — | 10/10 |
+| 7 | [Quiz 6](Quizzes/TCS%20Quiz%20-%206.pdf) | Decidability, Complexity | — | 10/10 |
 
 
 ---
@@ -183,7 +183,7 @@ Course completion documentation:
 
 | # | Document | Description |
 |:-:|:---|:---|
-| 1 | [**Submission Report**](Amey_B-50_TCS_Submission_Report.pdf) | Final coursework submission report |
+| 1 | [Submission Report](Amey_B-50_TCS_Submission_Report.pdf) | Final coursework submission report |
 
 ---
 
@@ -258,9 +258,9 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#theory-of-computer-science)**
+  [↑ Back to Top](#theory-of-computer-science)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Online Exam](#online-exam)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Online Exam](#online-exam) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
