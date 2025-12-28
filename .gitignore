@@ -1,0 +1,50 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# JFLAP (Automata Theory Tool)
+# We usually keep .jff files as they are diagrams/machines.
+# Ignore backups if any
+*.jff.bak
+*.jff~
+
+# LaTeX / Document Artifacts
+*.aux
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+*.log
+*.synctex.gz
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Git
+*.orig
