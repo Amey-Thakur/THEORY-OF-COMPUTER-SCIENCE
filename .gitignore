@@ -1,29 +1,23 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Theory of Computer Science - Academic Repository
+# Specialized .gitignore for automata theory and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
 # JFLAP (Automata Theory Tool)
-# We usually keep .jff files as they are diagrams/machines.
-# Ignore backups if any
 *.jff.bak
 *.jff~
 
@@ -39,6 +33,11 @@ $RECYCLE.BIN/
 *.toc
 *.log
 *.synctex.gz
+*.pdf
+# Note: Usually we keep the final PDF for academic reports, 
+# but ignore intermediate build files. 
+# If PDFs are shared as 'source' in this repo, remove *.pdf from here.
+# Given the directory structure, keep manually added PDFs.
 
 # Archives
 *.zip
@@ -46,5 +45,13 @@ $RECYCLE.BIN/
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
