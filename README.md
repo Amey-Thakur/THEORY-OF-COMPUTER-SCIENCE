@@ -35,12 +35,12 @@ Theory of Computer Science (CSC504) is a core subject in the Third Year (Semeste
 
 The curriculum encompasses several key domains in Theoretical Computer Science:
 
-- **Set Theory & Mathematical Foundations**: Sets, Relations, Functions, Proof Techniques
-- **Formal Languages**: Regular Languages, Context-Free Languages, Grammar Classifications
-- **Automata Theory**: Finite Automata (DFA, NFA), Pushdown Automata, Turing Machines
-- **Regular Expressions**: Pattern Matching, Equivalence with Finite Automata
-- **Context-Free Grammars**: Parse Trees, Ambiguity, Chomsky Normal Form
-- **Computability Theory**: Decidability, Undecidability, Halting Problem
+- **Set Theory & Mathematical Foundations**: Sets, Relations, Functions, Proof Techniques.
+- **Formal Languages**: Regular Languages, Context-Free Languages, Grammar Classifications.
+- **Automata Theory**: Finite Automata (DFA, NFA), Pushdown Automata, Turing Machines.
+- **Regular Expressions**: Pattern Matching, Equivalence with Finite Automata.
+- **Context-Free Grammars**: Parse Trees, Ambiguity, Chomsky Normal Form.
+- **Computability Theory**: Decidability, Undecidability, Halting Problem.
 
 ### Repository Purpose
 
