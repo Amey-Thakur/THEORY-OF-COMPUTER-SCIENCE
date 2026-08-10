@@ -73,6 +73,7 @@ This collection includes **comprehensive reference materials** covering all majo
 |:-:|:---|:---|
 | 1 | [TCS Techmax](Reference%20Books/TCS%20Techmax.pdf) | Complete syllabus coverage |
 | 2 | [Introduction to Theory of Computation - Sipser](Reference%20Books/Introduction%20To%20The%20Theory%20Of%20Computation%20-%20Michael%20Sipser.pdf) | Standard Textbook (Sipser) |
+| 2a | [Introduction to Theory of Computation - Sipser (second copy)](Reference%20Books/Introduction%20To%20The%20Theory%20Of%20Computation%20Michael%20Sipser.pdf) | Identical text, second copy kept from the original archive |
 | 3 | [Automata Theory](Reference%20Books/Automata%20Theory.pdf) | Finite Automata and Languages |
 | 4 | [Theory of Computation](Reference%20Books/Theory%20Of%20Computation.pdf) | Computation Theory Concepts |
 | 5 | [Theory of Computer Science](Reference%20Books/Theory%20Of%20Computer%20Science%20Third%20Edition.pdf) | Comprehensive Reference |
@@ -194,6 +195,7 @@ Course completion documentation:
 ## Syllabus
 
 > **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> **[Third and Fourth Year Syllabus](Syllabus/MU%20COMP%20TE%20BE.pdf)**  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for TCS.
 
 > [!IMPORTANT]
