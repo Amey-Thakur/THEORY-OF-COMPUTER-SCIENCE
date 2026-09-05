@@ -1,0 +1,38 @@
+# Theory of Computer Science
+
+> CSC504: Theory of Computer Science [TCS] | TE Semester V | Computer
+> Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester V
+Course code: CSC504
+Licence: CC BY 4.0, attribution required
+Repository created: 28 July 2021
+Work dated: 19 January 2021
+
+## What is in this repository
+
+- Assignments, 10 files
+- Online Exam, 6 files
+- Question Papers, 2 files
+- Quizzes, 6 files
+- Reference Books, 12 files
+- Semester Exam, 2 files
+- Syllabus, 2 files
+- Amey_B-50_TCS_Submission_Report.pdf
+
+## Subject terms
+
+automata-theory, complexity-theory, computer-engineering, computer-science,
+context-free-grammar, decidability, engineering, finite-automata,
+formal-languages, michael-sipser, reference-books, textbooks,
+theory-of-computation, turing-machines, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/THEORY-OF-COMPUTER-SCIENCE
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
